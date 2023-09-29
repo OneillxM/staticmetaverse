@@ -55,3 +55,5 @@ className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"
 );
 
 export default Feedback;
+
+// Newline character at the end of the file

@@ -30,3 +30,5 @@ const InsightCard = ({ imgUrl, title, subtitle,index }) => (
 );
 
 export default InsightCard;
+
+// Newline character at the end of the file

@@ -57,3 +57,5 @@ const Hero = () => (
 );
 
 export default Hero;
+
+// Newline character at the end of the file

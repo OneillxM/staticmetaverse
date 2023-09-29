@@ -70,3 +70,5 @@ textStyles="text-center"
 );
 
 export default World;
+
+// Newline character at the end of the file

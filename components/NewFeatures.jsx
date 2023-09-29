@@ -17,3 +17,5 @@ const NewFeatures = ({ imgUrl, title, subtitle }) => (
 );
 
 export default NewFeatures;
+
+// Newline character at the end of the file

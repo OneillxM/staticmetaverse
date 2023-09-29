@@ -43,3 +43,5 @@ const [active, setActive ] = useState('world-2');
 };
 
 export default Explore;
+
+// Newline character at the end of the file

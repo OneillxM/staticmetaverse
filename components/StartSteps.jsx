@@ -13,3 +13,5 @@ const StartSteps = ({ number, text }) => (
 );
 
 export default StartSteps;
+
+// Newline character at the end of the file
